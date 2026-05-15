@@ -2,7 +2,7 @@
 let heartCount = 0;
 let coinCount = 100;
 let copyCount = 0;
-
+// Emergency Hotline Project - by ruksat13
 // ========== HEART BUTTON ==========
 document.addEventListener('click', function (e) {
     if (e.target.classList.contains('hrt')) {
