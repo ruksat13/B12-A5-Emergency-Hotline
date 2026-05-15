@@ -1,0 +1,23 @@
+{
+  "name": "b12-a5-emergency-hotline-main",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruksat13/B12-A5-Emergency-Hotline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruksat13/B12-A5-Emergency-Hotline/issues"
+  },
+  "homepage": "https://github.com/ruksat13/B12-A5-Emergency-Hotline#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^4.3.0"
+  }
+}
