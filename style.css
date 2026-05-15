@@ -1,0 +1,5 @@
+/* Emergency Hotline - Custom Styles */
+.hrt:hover {
+    color: red;
+    cursor: pointer;
+}
