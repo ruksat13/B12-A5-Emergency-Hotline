@@ -58,3 +58,5 @@ Event Delegation হলো parent element এ event listener বসানো, ch
 - HTML
 - Tailwind CSS
 - Vanilla JavaScript
+## 👨‍💻 Developer
+- ruksat13
